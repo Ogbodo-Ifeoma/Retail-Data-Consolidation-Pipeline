@@ -27,9 +27,7 @@ This project demonstrates a real-world data engineering solution for consolidati
 
 4. **Gold Layer:** After cleaning and transforming, I selected the required columns and wrote it to the Gold table.
 
-   The crux of this project is to merge the child company data with the parent company data, which already has its own data storage architecture in Databricks. The tables were merged on similar column values. 
-
-![AtliQonBI360](https://dbc-5403c668-3f17.cloud.databricks.com/dashboardsv3/01f0faceb5c01b71a0e3479791f7f6d0/published?o=4270437472402123&f_1311f97c%7Eyear-1=2025)
+The crux of this project is to merge the child company data with the parent company data, which already has its own data storage architecture in Databricks. The tables were merged on similar column values. 
 
 ### 🤝 Contributing
 
