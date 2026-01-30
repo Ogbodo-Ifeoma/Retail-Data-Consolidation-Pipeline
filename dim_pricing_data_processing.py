@@ -15,7 +15,7 @@ from pyspark.sql.window import Window
 
 # COMMAND ----------
 
-# MAGIC %run /Workspace/Users/omarionmaia234@gmail.com/consolidated_pipeline/setup_folder/utilities
+# 
 
 # COMMAND ----------
 
@@ -29,7 +29,7 @@ dbutils.widgets.text("data_source", "gross_price", "Data Source")
 catalog = dbutils.widgets.get("catalog")
 data_source = dbutils.widgets.get("data_source")
 
-base_path = f'/Volumes/workspace/dropbox/bronxxe/sportsbar-dp/{data_source}/*.csv'
+base_path = f''
 print(base_path)
 
 # COMMAND ----------
