@@ -25,7 +25,9 @@ This project demonstrates a real-world data engineering solution for consolidati
 
 ![Screenshot of bronze data table creation](Assets/bronze_data.png)
    
-3. **Silver Layer:** In this layer, I cleaned, standardized and validated data against business requirements. These includes removing duplicates, removing trailing spaces from the data, correcting misspelled values, changing data types, etc
+2. **Silver Layer:** In this layer, I cleaned, standardized and validated data against business requirements. These includes removing duplicates, removing trailing spaces from the data, correcting misspelled values, changing data types, etc
+
+![Screenshot of silver table creation](Assets/silver_data_cleaning.png)
 
 4. **Gold Layer:** After cleaning and transforming, I selected the required columns and wrote it to the Gold table.
 
