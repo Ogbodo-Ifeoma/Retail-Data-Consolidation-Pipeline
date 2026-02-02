@@ -38,6 +38,14 @@ The crux of this project is to merge the child company data with the parent comp
 **Consolidated Sales Dashboard:**
 ![Screenshot of the dashboard](Assets/Atliqon360.png)
 
+### 📚 Key Learnings
+
+- Implementing Medallion architecture in a real-world scenario
+- Data harmonization challenges in M&A scenarios
+- Building scalable ETL pipelines with Spark
+- Data quality framework implementation
+- Lakehouse architecture best practices
+
 ### 🤝 Contributing
 
 This is a learning project, but suggestions are welcome. Feel free to open an issue or submit a pull request.
