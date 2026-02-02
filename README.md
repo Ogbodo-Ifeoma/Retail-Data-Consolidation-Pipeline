@@ -36,7 +36,7 @@ The crux of this project is to merge the child company data with the parent comp
 
 ### 📊 Sample Outputs
 **Consolidated Sales Dashboard:**
-![Screenshot of the dashboard](Databricks Dashboard.pdf)
+![Screenshot of the dashboard](Assets/Atliqon360.png)
 
 ### 🤝 Contributing
 
