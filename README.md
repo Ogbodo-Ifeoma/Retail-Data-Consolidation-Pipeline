@@ -23,7 +23,7 @@ This project demonstrates a real-world data engineering solution for consolidati
    using **Fivetran** connection. I separated schema definitions into a utilities module for reusability and consistency, and I created Delta tables to store the data in its different layers
    transformation.
 
-
+![Screenshot of bronze data table creation](Assets/bronze_data.png)
    
 3. **Silver Layer:** In this layer, I cleaned, standardized and validated data against business requirements. These includes removing duplicates, removing trailing spaces from the data, correcting misspelled values, changing data types, etc
 
