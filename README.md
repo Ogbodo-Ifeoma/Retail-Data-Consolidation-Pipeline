@@ -22,8 +22,10 @@ This project demonstrates a real-world data engineering solution for consolidati
 1. **Bronze Layer:** The child company, **SportsBar**, stores its data in **Dropbox**, a cloud file storage service. A pipeline was created to ingest the data from Dropbox to bronze layer tables
    using **Fivetran** connection. I separated schema definitions into a utilities module for reusability and consistency, and I created Delta tables to store the data in its different layers
    transformation.
+
+
    
-2. **Silver Layer:** In this layer, I cleaned, standardized and validated data against business requirements. These includes removing duplicates, removing trailing spaces from the data, correcting misspelled values, changing data types, etc
+3. **Silver Layer:** In this layer, I cleaned, standardized and validated data against business requirements. These includes removing duplicates, removing trailing spaces from the data, correcting misspelled values, changing data types, etc
 
 4. **Gold Layer:** After cleaning and transforming, I selected the required columns and wrote it to the Gold table.
 
