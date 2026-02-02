@@ -34,6 +34,9 @@ The crux of this project is to merge the child company data with the parent comp
 
 ![Screenshot od gold data merging](Assets/gold_data.png)
 
+### 📊 Sample Outputs
+**Consolidated Sales Dashboard:**
+
 ### 🤝 Contributing
 
 This is a learning project, but suggestions are welcome. Feel free to open an issue or submit a pull request.
